@@ -4,20 +4,13 @@
         <description><![CDATA[My First site on The Grid]]></description>
         <link>https://thegrid.ai/muse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 19:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 19:53:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My first post ever]]></title>
             <description><![CDATA[<article><h1>My first post ever</h1><p>This is my first every post on The Grid. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed3d60e-40b5-42b1-802d-8d7f38d04531.jpg"></article>]]></description>
             <link>https://thegrid.ai/muse/my-first-post-ever/index.html</link>
             <guid isPermaLink="false">aaba6f86-da96-4fe2-b930-1d4fa7cdd309</guid>
-            <pubDate>Tue, 01 Dec 2015 15:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-frt3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/24583_585087029099_2457020_n.jpg?oh=f70c4f56378db66a4869bcba9129dc92&oe=56D57EF9">]]></description>
-            <link>https://thegrid.ai/muse/079069f1-8036-49e3-aa3d-977e0190cabd/index.html</link>
-            <guid isPermaLink="false">079069f1-8036-49e3-aa3d-977e0190cabd</guid>
             <pubDate>Tue, 01 Dec 2015 15:39:58 GMT</pubDate>
         </item>
     </channel>

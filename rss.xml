@@ -4,8 +4,15 @@
         <description><![CDATA[muse]]></description>
         <link>https://thegrid.ai/muse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 15:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 15:41:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My first post ever]]></title>
+            <description><![CDATA[<article><h1>My first post ever</h1><p>This is my first every post on The Grid. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed3d60e-40b5-42b1-802d-8d7f38d04531.jpg"></article>]]></description>
+            <link>https://thegrid.ai/muse/my-first-post-ever/index.html</link>
+            <guid isPermaLink="false">aaba6f86-da96-4fe2-b930-1d4fa7cdd309</guid>
+            <pubDate>Tue, 01 Dec 2015 15:39:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-frt3-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/415600_876032991059_1688900111_o.jpg">]]></description>

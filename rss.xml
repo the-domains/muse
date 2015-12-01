@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My First site on The Grid]]></title>
+        <description><![CDATA[My First site on The Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 20:01:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test text 3 & Pic]]></title>
+            <description><![CDATA[<article><h1>Test text 3 & Pic</h1><p>Here I am riding mybike  holidays. Having your off the ground is the closest you get to heaven.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4ff8f1-26cd-4cc6-bd41-98b433d10f29.jpg"></article>]]></description>
+            <link>undefinedtest-text-3-and-pic/index.html</link>
+            <guid isPermaLink="false">85ea7b61-5440-4927-b3ab-5202f31a2efc</guid>
+            <pubDate>Tue, 01 Dec 2015 20:00:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

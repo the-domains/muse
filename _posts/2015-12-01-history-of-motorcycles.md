@@ -1,23 +1,23 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: History of the motorcycle From Wikipedia
-datePublished: '2015-12-01T17:40:36.963Z'
-dateModified: '2015-12-01T17:40:22.932Z'
+datePublished: '2015-12-01T18:12:37.545Z'
+dateModified: '2015-12-01T18:12:31.138Z'
 author: []
 title: History of Motorcycles
+sourcePath: _posts/2015-12-01-history-of-motorcycles.md
+published: true
 authors: []
 publisher:
   name: en.wikipedia.org
   domain: en.wikipedia.org
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-history-of-motorcycles.md
-published: true
 url: history-of-motorcycles/index.html
 _context: 'http://schema.org'
 _type: Article

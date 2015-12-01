@@ -1,7 +1,7 @@
 name: muse
 favicon: null
-layout_spectrum: 0.4753348606172949
-typography_spectrum: 0.8088520134333521
+layout_spectrum: 0.90701
+typography_spectrum: 0.30419
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.02729878481477499
-  lightness: 0.04141012695617974
-  saturation: 0.45673402259126306
-  rhythmicContrast: 0.7671020776033401
+    - '#748aa8'
+    - '#090708'
+    - '#3a3635'
+    - '#756c64'
+    - '#d0c8be'
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []

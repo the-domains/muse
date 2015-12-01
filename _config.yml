@@ -1,6 +1,6 @@
 name: muse
 favicon: null
-layout_spectrum: 0.35481
+layout_spectrum: 1
 typography_spectrum: 0.30419
 title: My First site on The Grid
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#748aa8'
-    - '#090708'
-    - '#3a3635'
-    - '#756c64'
-    - '#d0c8be'
+    - '#000000'
+    - '#e1c7ba'
+    - '#a34808'
+    - '#bc9276'
+    - '#630b04'
   brandStrength: 0
   lightness: 0.8125
   saturation: 0.8125

@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 01 Dec 2015 20:01:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/muse/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">030aab6d-f984-4854-a41f-22a47174d415</guid>
+            <pubDate>Tue, 01 Dec 2015 20:00:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Test Text & Pic]]></title>
             <description><![CDATA[<article><h1>Test Text & Pic</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef3edf2-398f-4689-a077-1373c86338e6.jpg"></article>]]></description>
             <link>https://thegrid.ai/muse/test-text-and-pic/index.html</link>

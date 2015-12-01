@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://en.wikipedia.org/wiki/History_of_the_motorcycle'
 inLanguage: null
 starred: false
 keywords: []
 description: History of the motorcycle From Wikipedia
-datePublished: '2015-12-01T18:12:37.545Z'
-dateModified: '2015-12-01T18:12:31.138Z'
+datePublished: '2015-12-01T19:10:56.442Z'
+dateModified: '2015-12-01T19:10:40.488Z'
 author: []
 title: History of Motorcycles
 sourcePath: _posts/2015-12-01-history-of-motorcycles.md
@@ -18,7 +19,6 @@ publisher:
   domain: en.wikipedia.org
   url: null
   favicon: null
-url: history-of-motorcycles/index.html
 _context: 'http://schema.org'
 _type: Article
 

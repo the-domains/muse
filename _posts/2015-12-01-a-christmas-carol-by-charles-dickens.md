@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Original Manuscript of A Christmas Carol - by Charles Dickens
-datePublished: '2015-12-01T18:05:12.173Z'
-dateModified: '2015-12-01T18:04:59.189Z'
+datePublished: '2015-12-01T18:07:39.477Z'
+dateModified: '2015-12-01T18:07:32.592Z'
 title: ' A Christmas Carol - by Charles Dickens'
 author: []
 authors: []

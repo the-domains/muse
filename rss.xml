@@ -4,7 +4,7 @@
         <description><![CDATA[My First site on The Grid]]></description>
         <link>https://thegrid.ai/muse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 20:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 19:24:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -15,21 +15,14 @@
         </item>
         <item>
             <title><![CDATA[Test Text & Pic]]></title>
-            <description><![CDATA[<article><h1>Test Text & Pic</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef3edf2-398f-4689-a077-1373c86338e6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Test Text & Pic</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53f6723a9117472ce9eb4201dd05bcceebc3550b.jpg"></article>]]></description>
             <link>https://thegrid.ai/muse/test-text-and-pic/index.html</link>
             <guid isPermaLink="false">4460dec5-f8ed-457e-9039-cd3a580451a9</guid>
             <pubDate>Tue, 01 Dec 2015 20:00:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Test Text 1]]></title>
-            <description><![CDATA[<article><h1>Test Text 1</h1><p>This is test text...</p></article>]]></description>
-            <link>https://thegrid.ai/muse/test-text-1/index.html</link>
-            <guid isPermaLink="false">b7a80358-ec67-4a7f-a5ef-075e8a8b8193</guid>
-            <pubDate>Tue, 01 Dec 2015 20:00:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Test text 3 & Pic]]></title>
-            <description><![CDATA[<article><h1>Test text 3 & Pic</h1><p>Here I am riding mybike  holidays. Having your off the ground is the closest you get to heaven.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4ff8f1-26cd-4cc6-bd41-98b433d10f29.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Test text 3 & Pic</h1><p>Here I am riding mybike  holidays. Having your off the ground is the closest you get to heaven.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0674b770980ade8336dffa6364134d5b27e2600.jpg"></article>]]></description>
             <link>https://thegrid.ai/muse/test-text-3-and-pic/index.html</link>
             <guid isPermaLink="false">85ea7b61-5440-4927-b3ab-5202f31a2efc</guid>
             <pubDate>Tue, 01 Dec 2015 20:00:52 GMT</pubDate>
